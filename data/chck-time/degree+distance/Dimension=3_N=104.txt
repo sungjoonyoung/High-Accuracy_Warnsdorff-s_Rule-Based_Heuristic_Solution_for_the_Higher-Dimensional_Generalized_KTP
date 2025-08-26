@@ -1,0 +1,2 @@
+Start position: 0 0 0 Yes solution found
+Execution time: 652 ms (652794 μs)

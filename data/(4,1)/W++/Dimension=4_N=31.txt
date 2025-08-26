@@ -1,0 +1,3 @@
+Success: 2 Fail: 0
+Start position: 15 3 20 24 - Success Execution time: 1127 ms (1127979 μs)
+Start position: 7 21 22 30 - Success Execution time: 1193 ms (1193699 μs)

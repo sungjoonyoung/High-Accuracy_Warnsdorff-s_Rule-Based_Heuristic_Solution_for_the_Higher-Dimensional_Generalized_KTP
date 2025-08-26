@@ -1,0 +1,70 @@
+Start position: 0 0 0 0 No solution found
+Execution time: 0 ms (204 μs)
+Start position: 0 0 0 2 No solution found
+Execution time: 0 ms (152 μs)
+Start position: 0 0 2 0 No solution found
+Execution time: 0 ms (109 μs)
+Start position: 0 0 2 2 No solution found
+Execution time: 0 ms (110 μs)
+Start position: 0 2 0 0 No solution found
+Execution time: 0 ms (108 μs)
+Start position: 0 2 0 2 No solution found
+Execution time: 0 ms (115 μs)
+Start position: 0 2 2 0 No solution found
+Execution time: 0 ms (110 μs)
+Start position: 0 2 2 2 No solution found
+Execution time: 0 ms (207 μs)
+Start position: 2 0 0 0 No solution found
+Execution time: 0 ms (116 μs)
+Start position: 2 0 0 2 No solution found
+Execution time: 0 ms (109 μs)
+Start position: 2 0 2 0 No solution found
+Execution time: 0 ms (310 μs)
+Start position: 2 0 2 2 No solution found
+Execution time: 0 ms (110 μs)
+Start position: 2 2 0 0 No solution found
+Execution time: 0 ms (119 μs)
+Start position: 2 2 0 2 No solution found
+Execution time: 0 ms (182 μs)
+Start position: 2 2 2 0 No solution found
+Execution time: 0 ms (109 μs)
+Start position: 2 2 2 2 No solution found
+Execution time: 0 ms (109 μs)
+Start position: 1 1 1 1 No solution found
+Execution time: 0 ms (28 μs)
+Start position: 0 1 1 1 No solution found
+Execution time: 0 ms (108 μs)
+Start position: 2 1 1 1 No solution found
+Execution time: 0 ms (107 μs)
+Start position: 1 0 1 1 No solution found
+Execution time: 0 ms (121 μs)
+Start position: 1 2 1 1 No solution found
+Execution time: 0 ms (109 μs)
+Start position: 1 1 0 1 No solution found
+Execution time: 0 ms (116 μs)
+Start position: 1 1 2 1 No solution found
+Execution time: 0 ms (109 μs)
+Start position: 1 1 1 0 No solution found
+Execution time: 0 ms (109 μs)
+Start position: 1 1 1 2 No solution found
+Execution time: 0 ms (108 μs)
+Start position: 1 1 2 0 No solution found
+Execution time: 0 ms (109 μs)
+Start position: 2 2 1 0 No solution found
+Execution time: 0 ms (108 μs)
+Start position: 0 1 2 0 No solution found
+Execution time: 0 ms (110 μs)
+Start position: 2 1 0 2 No solution found
+Execution time: 0 ms (109 μs)
+Start position: 0 0 0 0 No solution found
+Execution time: 0 ms (109 μs)
+Start position: 0 0 0 1 No solution found
+Execution time: 0 ms (109 μs)
+Start position: 0 0 2 0 No solution found
+Execution time: 0 ms (110 μs)
+Start position: 2 1 1 2 No solution found
+Execution time: 0 ms (114 μs)
+Start position: 1 1 0 1 No solution found
+Execution time: 0 ms (108 μs)
+Start position: 1 0 0 2 No solution found
+Execution time: 0 ms (111 μs)

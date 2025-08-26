@@ -1,0 +1,4 @@
+Success: 3 Fail: 0
+Start position: 240 50 22 - Success Execution time: 5372 ms (5372495 μs)
+Start position: 182 231 190 - Success Execution time: 5196 ms (5196647 μs)
+Start position: 64 171 42 - Success Execution time: 5413 ms (5413524 μs)

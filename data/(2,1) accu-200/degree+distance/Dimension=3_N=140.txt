@@ -1,0 +1,11 @@
+Success: 10 Fail: 0
+Start position: 49 73 41 - Success Execution time: 1057 ms (1057086 μs)
+Start position: 112 127 43 - Success Execution time: 884 ms (884289 μs)
+Start position: 60 116 116 - Success Execution time: 1123 ms (1123733 μs)
+Start position: 59 122 65 - Success Execution time: 1112 ms (1112833 μs)
+Start position: 82 14 136 - Success Execution time: 859 ms (859538 μs)
+Start position: 46 80 134 - Success Execution time: 1123 ms (1123555 μs)
+Start position: 116 40 104 - Success Execution time: 866 ms (866658 μs)
+Start position: 63 100 78 - Success Execution time: 1184 ms (1184149 μs)
+Start position: 100 58 119 - Success Execution time: 924 ms (924741 μs)
+Start position: 3 53 3 - Success Execution time: 1124 ms (1124790 μs)

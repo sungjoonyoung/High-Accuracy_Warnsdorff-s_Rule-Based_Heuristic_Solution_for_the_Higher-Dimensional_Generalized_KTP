@@ -1,0 +1,9 @@
+Success: 3 Fail: 0
+Start position: 0 0 - Success Execution time: 0 ms (17 μs)
+Start position: 0 0 - Success Execution time: 0 ms (19 μs)
+1 22 11 16 7 
+12 17 8 21 10 
+25 2 23 6 15 
+18 13 4 9 20 
+3 24 19 14 5 
+Start position: 0 0 - Success Execution time: 0 ms (19 μs)

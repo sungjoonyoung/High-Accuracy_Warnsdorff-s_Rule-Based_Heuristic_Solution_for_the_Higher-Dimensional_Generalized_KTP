@@ -1,0 +1,50 @@
+Start position: 0 0 0 No solution found
+Execution time: 0 ms (30 μs)
+Start position: 0 0 1 No solution found
+Execution time: 0 ms (30 μs)
+Start position: 0 1 0 No solution found
+Execution time: 0 ms (28 μs)
+Start position: 0 1 1 No solution found
+Execution time: 0 ms (49 μs)
+Start position: 1 0 0 No solution found
+Execution time: 0 ms (29 μs)
+Start position: 1 0 1 No solution found
+Execution time: 0 ms (33 μs)
+Start position: 1 1 0 No solution found
+Execution time: 0 ms (30 μs)
+Start position: 1 1 1 No solution found
+Execution time: 0 ms (32 μs)
+Start position: 1 1 1 No solution found
+Execution time: 0 ms (29 μs)
+Start position: 1 1 0 No solution found
+Execution time: 0 ms (28 μs)
+Start position: 1 1 1 No solution found
+Execution time: 0 ms (29 μs)
+Start position: 1 0 1 No solution found
+Execution time: 0 ms (31 μs)
+Start position: 1 1 1 No solution found
+Execution time: 0 ms (30 μs)
+Start position: 0 1 1 No solution found
+Execution time: 0 ms (28 μs)
+Start position: 1 1 1 No solution found
+Execution time: 0 ms (29 μs)
+Start position: 1 1 1 No solution found
+Execution time: 0 ms (29 μs)
+Start position: 1 0 0 No solution found
+Execution time: 0 ms (31 μs)
+Start position: 1 0 0 No solution found
+Execution time: 0 ms (29 μs)
+Start position: 0 1 1 No solution found
+Execution time: 0 ms (27 μs)
+Start position: 1 1 1 No solution found
+Execution time: 0 ms (30 μs)
+Start position: 0 0 0 No solution found
+Execution time: 0 ms (28 μs)
+Start position: 1 1 1 No solution found
+Execution time: 0 ms (29 μs)
+Start position: 1 1 0 No solution found
+Execution time: 0 ms (29 μs)
+Start position: 1 0 0 No solution found
+Execution time: 0 ms (29 μs)
+Start position: 0 1 1 No solution found
+Execution time: 0 ms (29 μs)
