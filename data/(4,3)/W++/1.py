@@ -5,7 +5,12 @@ import os
 
 results = []
 
-file_pattern = r"C:\Users\sungs\OneDrive\Documents\2-1\Project\data\(4,3)\W++\*.txt"
+
+# .py 파일이 있는 폴더
+base_dir = os.path.dirname(os.path.abspath(__file__))
+
+# 같은 폴더 안의 모든 .txt 파일
+file_pattern = os.path.join(base_dir, "*.txt")
 
 for filepath in glob.glob(file_pattern):
     with open(filepath, encoding="utf-8") as f:

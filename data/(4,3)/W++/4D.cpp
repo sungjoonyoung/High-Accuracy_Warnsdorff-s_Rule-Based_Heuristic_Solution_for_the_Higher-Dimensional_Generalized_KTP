@@ -205,8 +205,8 @@ int main(int argc, char* argv[]) {
     for(int i=0;i<48 and !res;i++){
         for(int j=0;j<48-1;j++)swap(dx[j],dx[j+1]);
         for(int j=0;j<48-1;j++)swap(dy[j],dy[j+1]);
-        for(int j=0;j<24-1;j++)swap(dz[j],dz[j+1]);
-        for(int j=0;j<24-1;j++)swap(dw[j],dw[j+1]);
+        for(int j=0;j<48-1;j++)swap(dz[j],dz[j+1]);
+        for(int j=0;j<48-1;j++)swap(dw[j],dw[j+1]);
         init_degree();
         res = knight_tour(sx, sy, sz, sw);
     }
