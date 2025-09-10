@@ -13,6 +13,8 @@ This study proposes a M-W, M-W+, and GW heuristic that is based on Warnsdorff's 
 
 <img width="1241" height="400" alt="download" src="https://github.com/user-attachments/assets/7a184b75-8ded-4814-b504-bf8f3110aad3" />
 
+<img width="853" height="400" alt="download" src="https://github.com/user-attachments/assets/543271ae-8704-4de7-85df-da91806d4992" />
+
 <img width="864" height="400" alt="download" src="https://github.com/user-attachments/assets/8276edfd-c847-4171-b01a-a9d2187de369" />
 
 <img width="1267" height="400" alt="download" src="https://github.com/user-attachments/assets/6d57ded4-2f97-423b-a3e9-65ca6354d413" />
