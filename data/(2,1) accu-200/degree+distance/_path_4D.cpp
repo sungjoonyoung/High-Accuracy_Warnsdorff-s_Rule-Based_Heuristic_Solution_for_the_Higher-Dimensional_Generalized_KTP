@@ -141,7 +141,7 @@ bool knight_tour(int x, int y, int z, int w) {
 
 int main(int argc, char* argv[]) {
 
-    N = 5;
+    N = 7;
     int sx = 0;
     int sy = 0;
     int sz = 0;
