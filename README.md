@@ -1,15 +1,10 @@
 
-[FULL_PDF.pdf](https://github.com/user-attachments/files/22246000/20250910_.20.pdf)
-
-[main_data_Modified.ipynb - Colab.pdf](https://github.com/user-attachments/files/22246004/main_data_Modified.ipynb.-.Colab.pdf)
-
-[main_data.ipynb - Colab.pdf](https://github.com/user-attachments/files/22246005/main_data.ipynb.-.Colab.pdf)
-
+[제20회 이과대학 재학생 연구 프로젝트 결과보고서.pdf](https://github.com/user-attachments/files/22687115/20.pdf)
 
 
 ![다운로드 (7)](https://github.com/user-attachments/assets/f7346df9-4ac7-4903-9e11-a3b78f6a4808)
 
-This study proposes a M-W, M-W+, and GW heuristic that is based on Warnsdorff's rule
+<img width="491" height="484" alt="image" src="https://github.com/user-attachments/assets/31012718-4788-4bc2-b971-dbb841ee95e7" />
 
 <img width="1241" height="400" alt="download" src="https://github.com/user-attachments/assets/7a184b75-8ded-4814-b504-bf8f3110aad3" />
 
