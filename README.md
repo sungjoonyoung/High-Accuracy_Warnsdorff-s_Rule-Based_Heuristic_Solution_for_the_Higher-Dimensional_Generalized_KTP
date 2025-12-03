@@ -1,6 +1,7 @@
 
 [제20회 이과대학 재학생 연구 프로젝트 결과보고서.pdf](https://github.com/user-attachments/files/22687115/20.pdf)
 
+<img width="491" alt="image" src="https://github.com/user-attachments/assets/80b277cd-6b0e-4c74-b8e7-9bbb56766a25" />
 
 ![다운로드 (7)](https://github.com/user-attachments/assets/f7346df9-4ac7-4903-9e11-a3b78f6a4808)
 
