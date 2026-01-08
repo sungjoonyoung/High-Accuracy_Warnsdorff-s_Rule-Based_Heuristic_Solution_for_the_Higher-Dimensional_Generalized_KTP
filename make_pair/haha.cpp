@@ -14,9 +14,7 @@ int main(void) {
        int N;
        double acc;
        fin >> N >> acc;
-       if (fin.fail())break;
        if (N==0 and acc==0)break;
-       cout<<N<<" "<<acc<<"\n";
        v.push_back({ N,acc });
    }
    cout<<"done reading\n\n";
@@ -29,7 +27,7 @@ int main(void) {
 
    fout << "y=[";
    for (int i = 0; i < v.size(); i++) {
-       fout << v[i].second;
+       fout << (double)1.0-v[i].second;
        if (i != v.size() - 1)fout << ",";
    }
    fout << "]\n";
